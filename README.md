@@ -1,4 +1,5 @@
 # docker-ejabberd
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/rroemhild/docker-ejabberd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Ejabberd][ejabberd] server version 14.07 with SSL, internal and anonymous auth enabled by default. To control the XMPP server, register an admin user 'admin@\<domain\>' with your prefered XMPP client. You can change the default domain `localhost` and other settings through [environment variables](#environment-variables-runtime-configuration).
 
